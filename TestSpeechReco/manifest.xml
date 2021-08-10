@@ -1,20 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="nao_connect-2fd6b5" installOnlyAtStartup="false" version="0.0.0">
+<package uuid="testspeechreco-ccca24" installOnlyAtStartup="false" version="0.0.0">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
  <supportedLanguages>
   <language>en_US</language>
-  <language>de_DE</language>
  </supportedLanguages>
  <descriptionLanguages>
   <language>en_US</language>
-  <language>de_DE</language>
  </descriptionLanguages>
  <contents>
   <behaviorContent path="behavior_1">
    <userRequestable/>
    <nature>interactive</nature>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
