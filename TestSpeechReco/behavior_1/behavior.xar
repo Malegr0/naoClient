@@ -229,7 +229,7 @@ class MyClass(GeneratedClass):
               <Output name="onReady" type="1" type_size="1" nature="2" inner="0" tooltip="Signal sent when the data has been set." id="3" />
               <Resource name="Speech recognition" type="Lock" timeout="0" />
             </Box>
-            <Box name="Say Text" id="4" localization="8" tooltip="Say the text received on its input." x="1194" y="109">
+            <Box name="Say Text" id="4" localization="8" tooltip="Say the text received on its input." x="1103" y="90">
               <bitmap>media/images/box/interaction/say.png</bitmap>
               <script language="4">
                 <content>
