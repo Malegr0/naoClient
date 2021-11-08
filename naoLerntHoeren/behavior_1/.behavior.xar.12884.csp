@@ -15,7 +15,7 @@
       <BehaviorLayer name="behavior_layer1">
         <BehaviorKeyframe name="keyframe1" index="1">
           <Diagram>
-            <Box name="Recognizer" id="1" localization="8" tooltip="Recognizes the spoken word" x="442" y="89">
+            <Box name="Recognizer" id="1" localization="8" tooltip="Recognizes the spoken word" x="392" y="96">
               <bitmap>media/images/box/box-python-script.png</bitmap>
               <script language="4">
                 <content>
